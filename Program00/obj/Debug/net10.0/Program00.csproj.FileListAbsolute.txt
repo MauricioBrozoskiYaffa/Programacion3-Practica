@@ -1,0 +1,14 @@
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\bin\Debug\net10.0\Program00.exe
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\bin\Debug\net10.0\Program00.deps.json
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\bin\Debug\net10.0\Program00.runtimeconfig.json
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\bin\Debug\net10.0\Program00.dll
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\bin\Debug\net10.0\Program00.pdb
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\Program00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\Program00.AssemblyInfoInputs.cache
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\Program00.AssemblyInfo.cs
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\Program00.csproj.CoreCompileInputs.cache
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\Program00.dll
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\refint\Program00.dll
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\Program00.pdb
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\Program00.genruntimeconfig.cache
+C:\Users\brozo\Desktop\Programacion3-Practica\Program00\obj\Debug\net10.0\ref\Program00.dll

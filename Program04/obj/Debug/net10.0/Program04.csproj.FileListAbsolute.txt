@@ -1,0 +1,14 @@
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\bin\Debug\net10.0\Program04.exe
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\bin\Debug\net10.0\Program04.deps.json
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\bin\Debug\net10.0\Program04.runtimeconfig.json
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\bin\Debug\net10.0\Program04.dll
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\bin\Debug\net10.0\Program04.pdb
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\Program04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\Program04.AssemblyInfoInputs.cache
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\Program04.AssemblyInfo.cs
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\Program04.csproj.CoreCompileInputs.cache
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\Program04.dll
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\refint\Program04.dll
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\Program04.pdb
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\Program04.genruntimeconfig.cache
+C:\Users\brozo\Desktop\Programacion3-Practica\Program04\obj\Debug\net10.0\ref\Program04.dll
