@@ -12,3 +12,4 @@ C:\Users\brozo\Desktop\Programacion3-Practica\Program03\obj\Debug\net10.0\refint
 C:\Users\brozo\Desktop\Programacion3-Practica\Program03\obj\Debug\net10.0\Program03.pdb
 C:\Users\brozo\Desktop\Programacion3-Practica\Program03\obj\Debug\net10.0\Program03.genruntimeconfig.cache
 C:\Users\brozo\Desktop\Programacion3-Practica\Program03\obj\Debug\net10.0\ref\Program03.dll
+C:\Users\brozo\Desktop\Programacion3-Practica\Program03\obj\Debug\net10.0\Program03.sourcelink.json
